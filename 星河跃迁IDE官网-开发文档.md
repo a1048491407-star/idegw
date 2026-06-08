@@ -2,7 +2,7 @@
 
 > 目标：开发一套适合“刚结束内测、准备开放公测”阶段的中文官网。  
 > 正式域名：`https://ide.xhyqcc.com`  
-> 下载地址：`https://update.xhyqcc.com/yueqianIDE/beta/yueqiancode-electron-win-x64.exe`
+> 下载地址：`https://ide.xhyqcp.com/yueqianIDE/beta/yueqiancode-electron-win-x64.exe`
 
 ---
 

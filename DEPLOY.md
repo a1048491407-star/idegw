@@ -20,7 +20,7 @@
 
 当前下载按钮统一指向：
 
-`https://update.xhyqcc.com/yueqianIDE/beta/yueqiancode-electron-win-x64.exe`
+`https://ide.xhyqcp.com/yueqianIDE/beta/yueqiancode-electron-win-x64.exe`
 
 ## 发布前检查
 
